@@ -34,5 +34,6 @@ if __name__ == "__main__":
     print("hello from branch 2")
     print("helloo from branch1")
     print("hiiii2")
+    print("xxxxx")
     # Start the application
     Main.start()
