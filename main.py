@@ -31,6 +31,7 @@ import pyfiglet
 if __name__ == "__main__":
     # Display the "INSTAPAY" logo in ASCII art with yellow color
     print(termcolor.colored(pyfiglet.figlet_format("INSTAPAY"), "yellow"))
+    print("hello from branch 2")
     print("helloo from branch1")
     
     # Start the application
